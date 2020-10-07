@@ -113,3 +113,4 @@ This is a deep learning application project in the industrial field, intended to
 * 2.查准率待提升，需减少对负样本的错误分类，有误检
 * 3.该神经网络对噪声不敏感，对块状、条状斑纹敏感
 * 4.分割结果大部分较好，对很细的缺陷分割效果不佳
+
